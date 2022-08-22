@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marekzielak
-- 👀 I’m interested in step motors stering
+- 👀 I’m interested in step motors steering
 - 🌱 I’m currently learning python  
 
 
